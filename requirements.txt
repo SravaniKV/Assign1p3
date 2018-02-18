@@ -6,3 +6,4 @@ psycopg2==2.7.1
 pytz==2017.2
 simplejson==3.11.1
 whitenoise==3.3.0
+djangorestframework==3.7.1
